@@ -1,3 +1,5 @@
+/*All code written by me without any help.*/
+
 CREATE DATABASE db_library
 GO
 
